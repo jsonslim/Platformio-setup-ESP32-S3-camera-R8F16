@@ -11,3 +11,4 @@ The code checks if the external RAM and FLASH work correctly.
 todo
 Use the LED to indicate the memory tests.
 Utilise the camera for web streaming
+Add the schematic picture
