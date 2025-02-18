@@ -1,6 +1,7 @@
-# Platformio-setups-for-different-ESP32-boards
-The minimal working Platformio project for starting your project quickly with this ESP32-S3 n16r8 board from Aliexpress. 
+# Platformio set up project for this ESP32 board
+
+The minimal working Platformio project for starting your project quickly with ESP32-S3 n16r8 board from Aliexpress. 
 
 ![The board](https://github.com/jsonslim/Platformio-setup-ESP32-S3-camera-R8F16/blob/main/img/2.png?raw=true)
 
-You can use this project to check if the external RAM and FLASH work correctly. 
+The code checks if the external RAM and FLASH work correctly. 
