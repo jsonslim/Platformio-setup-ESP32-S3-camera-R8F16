@@ -5,3 +5,9 @@ The minimal working Platformio project for starting your project quickly with ES
 ![The board](https://github.com/jsonslim/Platformio-setup-ESP32-S3-camera-R8F16/blob/main/img/1.png?raw=true)
 
 The code checks if the external RAM and FLASH work correctly. 
+
+
+
+todo
+Use the LED to indicate the memory tests.
+Utilise the camera for web streaming
